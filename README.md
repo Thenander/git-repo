@@ -1,1 +1,3 @@
-# git-repo
+# Demo
+
+Learning git.
